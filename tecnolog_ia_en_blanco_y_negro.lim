@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>DFE0EA</corfondo>
+        <corbanda>7577D0</corbanda>
+        <cornavega>7577D0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Tecnología en Blanco y Negro</titulo>
+        <autor>Anna Sofía Peréz Villamil </autor>
+        <informe>1</informe>
+        <botonson>0</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Muy bien</correcto>
+        <incorrecto son="" modo="1" >Esa no es la palabra!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <pe>Anna Sofía</pe>
+              <imaxe>internet-de-las-cosasDEF.jpg</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="@Malgun" size="54"><b>Computador y sus Usos</b><br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>7577D0</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>18</tipo>
+              <cabeceira>Completa las oraciones</cabeceira>
+              <pe>Anna Sofía</pe>
+              <modo>1</modo>
+              <completa ant="Opciones: RAM, impresora, antivirus, disco duro." post="es la unidad de almacenamiento principal de una computadora                 ">disco duro</completa>
+              <completa ant="Opciones: Windows, Linux, macOS, Android." post="es un sistema operativo desarrollado por Apple                 ">macOS</completa>
+              <completa ant="Opciones: Bluetooth, HDMI, USB, Wi-Fi." post="es una tecnología que permite la comunicación inalámbrica entre dispositivos cercanos                 ">Bluetooth</completa>
+              <completa ant="Opciones: Facebook, YouTube, Netflix, Spotify." post="es una plataforma de redes sociales muy popular                 ">Facebook</completa>
+              <completa ant="Opciones: código, enlace, software, procesamiento." post="es el proceso de convertir datos en información                 ">procesamiento</completa>
+              <completa ant="Opciones: mouse, altavoz, monitor, disco duro." post="es un dispositivo de entrada común en las computadoras                 ">mouse</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Partes de una computadora</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Procesador">Procesador.jpg</cousa>
+              <cousa nome="Placa Madre ">Placa-madre.jpg</cousa>
+              <cousa nome="Memoria RAM">Memoria-RAM.jpg</cousa>
+              <cousa nome="Fuente de alimentacion">fuente-alimentacion.jpg</cousa>
+              <cousa nome="Disco solido">Disco-solido.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el rompecabezas de la targeta madre </cabeceira>
+              <imaxe>mother-board.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
